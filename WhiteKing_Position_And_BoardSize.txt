@@ -1,0 +1,2 @@
+White King Initial Position: 3 5
+Board Size: 20
