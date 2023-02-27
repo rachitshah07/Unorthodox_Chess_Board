@@ -12,3 +12,8 @@ This chessboard is created under the name or algorithm of **Smart Navigator**.
 * Zoom in 
 * Zoom out 
 * Scrollbar
+
+## Screenshots
+![1](https://user-images.githubusercontent.com/72906451/221475388-01a3cf20-be04-42e7-94d8-ed827ea09213.png)
+![2](https://user-images.githubusercontent.com/72906451/221475405-f53a40ab-bb9b-40e5-99e5-8b2bc2dc0708.png)
+![3](https://user-images.githubusercontent.com/72906451/221475417-3214fd6a-13d1-4429-8df6-47eece968734.png)
